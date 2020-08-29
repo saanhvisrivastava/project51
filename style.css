@@ -1,0 +1,29 @@
+
+*{
+  border:dotted
+  
+}
+h1{
+    color:#808080
+}
+.header{
+    background-color:#7fffd4;
+    display: flex;
+    justify-content: space-between
+}
+.grid{
+    background-color:#7fff00;
+    
+    display:flex;
+    justify-content:space space-evenly;
+    flex-wrap: wrap;
+}
+.grid p{
+    text-align:center;
+    color: #f70000
+}
+.subhead{
+    background-color: seagreen;
+    color:#ff00aa;
+    text-align:center;
+}
